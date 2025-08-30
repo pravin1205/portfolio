@@ -56,7 +56,7 @@ const Projects = () => {
       title: "Portfolio Website",
       description: "Modern, responsive portfolio website built with ReactJS and TypeScript. Features smooth animations, dark mode support, and optimized performance.",
       category: "Frontend",
-      tech: ["ReactJS", "TypeScript", "Tailwind CSS", "Vite", "Responsive Design"],
+      tech: ["ReactJS", "TypeScript", "Tailwind CSS", "Vite", "Responsive Design","EmailJs"],
       github: "https://github.com/pravin1205/portfolio",
       live: "https://pravin-portfolio.com",
       type: "Personal",
